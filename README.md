@@ -3,13 +3,11 @@
 
 <h3>&nbsp; Sobre mim </h3>
 
-Analista com experiência em suporte técnico e automação, com habilidades em atendimento ao cliente, elaboração de documentação técnica e treinamento. Atualmente atuando como Analista de Projetos e Soluções na Intelbras, com foco em projetos de implantação e suporte em sistemas de controle de acesso e segurança eletrônica.
-
-Analista Técnico de Projetos 
+Analista de Operações e Suporte que migra para Ciência de Dados focando em SQL, modelagem de dados e MLOps leve; experiência com controle de acesso/CFTV e automação.
 
 Técnico de Mecânica - Formado
 
-Cursando - Ciencia de Dados com Enfasê em IA. 
+Cursando - Ciencia de Dados com Ênfase em IA. 
 
 
 <h3>&nbsp; Backend </h3>
