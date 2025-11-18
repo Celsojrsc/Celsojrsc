@@ -12,7 +12,6 @@ Cursando - Ciencia de Dados com Ênfase em IA.
 
 <h3>&nbsp; Backend </h3>
 <p>
-  <img src="https://img.shields.io/badge/Node-339933?logo=node.js&logoColor=ffffff" alt="Node logo" title="Node" height="25" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=ffffff" alt="MySQL logo" title="MySQL" height="25" />
   <img src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=ffffff" alt="C# logo" title="C#" height="25" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=ffffff" alt="Python logo" title="Python" height="25" />
@@ -22,7 +21,6 @@ Cursando - Ciencia de Dados com Ênfase em IA.
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=ffffff" alt="HTML5 logo" title="HTML5" height="25" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=ffffff" alt="CSS3 logo" title="CSS3" height="25" />
-  <img src="https://img.shields.io/badge/Javascript-ccbf02?logo=css3&logoColor=ffffff" alt="JavaScript logo" title="JavaScript" height="25" />
   <img src="https://img.shields.io/badge/React-11DAFB?logo=react&logoColor=ffffff" alt="React logo" title="React.js / React Native" height="25" />
 </p>
 
